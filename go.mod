@@ -1,6 +1,6 @@
 module github.com/gardener/terminal-controller-manager
 
-go 1.22.1
+go 1.22.0
 
 require (
 	github.com/gardener/gardener v1.90.4
